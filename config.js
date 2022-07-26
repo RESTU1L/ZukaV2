@@ -43,32 +43,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
+global.sgh = 'https://github.com/RESTU1L'
+global.sgc = 'https://chat.whatsapp.com/BppIf2vq9RF4arF9r9J0Yo'
 global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'wa.me/6283174508962'
+global.snh = 'wa.me/6289636022073'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
+global.pdana = '089636022073'
+global.povo = '089636022073'
+global.pgopay = '089636022073'
+global.ppulsa = '089636022073'
+global.ppulsa2 = '089636022073'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '6289636022073'
+global.nomorown = '6289636022073'
 global.namebot = 'BotzzMee'
 global.nameown = 'ZukashikaⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6289636022073'],
+  ['6289636022073'],
+  ['+1 (831) 867-6971'],
+  ['6289636022073', 'BotzzMee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
